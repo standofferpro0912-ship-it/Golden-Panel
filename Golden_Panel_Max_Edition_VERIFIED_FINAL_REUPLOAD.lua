@@ -48,7 +48,7 @@ end
 --//========================================================
 
 local OWNER_IDS = {
-    [123456789] = true, -- <<< REPLACE WITH YOUR USER ID
+    [9113450298] = true, -- <<< REPLACE WITH YOUR USER ID
 }
 
 if not OWNER_IDS[LocalPlayer.UserId] then
